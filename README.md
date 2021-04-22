@@ -56,7 +56,8 @@ Number of students below their grade average :: 3
 ----------------------------------------------------------------------------------------------
 
 ## Dependencies
-Ruby version: ruby 2.3.1
+Ruby Version: ruby 2.6.6
+Rails Version: Rails 6.0.3.6
 
 ## Run the code
 From console run Student.get_student_report
