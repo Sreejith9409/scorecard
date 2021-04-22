@@ -60,4 +60,5 @@ Ruby version: ruby 2.3.1
 
 ## Run the code
 From console run Student.get_student_report
-
+Output is captured as csv under public/csv folder
+Also output is printed in console
