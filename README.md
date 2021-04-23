@@ -56,10 +56,10 @@ Number of students below their grade average :: 3
 ----------------------------------------------------------------------------------------------
 
 ## Dependencies
-Ruby Version: ruby 2.6.6
+Ruby Version: ruby 2.6.6 
 Rails Version: Rails 6.0.3.6
 
 ## Run the code
-From console run Student.get_student_report
-Output is captured as csv under public/csv folder
+From console run Student.get_student_report 
+Output is captured as csv under public/csv folder 
 Also output is printed in console
